@@ -28,6 +28,8 @@
 #include <osgViewer/GraphicsWindow>
 #include <osgViewer/Version>
 
+#include <iostream>
+
 
 class MyGraphicsContext {
 public:
